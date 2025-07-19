@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently looking out for **Flutter** roles
 
-- 👨‍💻 All of my current projects are available at [https://github.com/Chinez-droid?tab=repositories](https://github.com/Chinez-droid?tab=repositories)
+- Check to my pinned projects and https://linktr.ee/chinez_official to view my top projects
 
 - 📝 I ocassionally write articles at [https://hashnode.com/@Chinez](https://hashnode.com/@Chinez)
 
