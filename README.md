@@ -51,4 +51,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chinez-official&show_icons=true&locale=en" alt="Chinez-official" /></p>
 
+<p><img align="center" src="https://streak-stats.demolab.com?user=Chinez-official&theme=tokyonight" alt="Chinez-official" /></p>
 
