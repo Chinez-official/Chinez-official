@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 I’m currently looking out for **Flutter** roles  
-- Check my pinned projects and [https://linktr.ee/chinez_official](https://linktr.ee/chinez_official) to view my top projects  
+- Check my pinned projects and [https://linktr.ee/chinez_official](https://linktr.ee/chinez_official) to view my key projects  
 - 📝 I occasionally write articles at [https://hashnode.com/@Chinez](https://hashnode.com/@Chinez)  
 - 📫 You can contact me at **chineduezeozue@gmail.com**
 
