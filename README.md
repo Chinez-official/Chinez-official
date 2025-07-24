@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 I’m currently looking out for **Flutter** roles  
-- Check my pinned projects and [https://linktr.ee/chinez_official](https://linktr.ee/chinez_official) to view my key projects  
+- Check [https://linktr.ee/chinez_official](https://linktr.ee/chinez_official) to view Trivia Glide App (My play store app) 
 - 📝 I occasionally write articles at [https://hashnode.com/@Chinez](https://hashnode.com/@Chinez)  
 - 📫 You can contact me at **chineduezeozue@gmail.com**
 
